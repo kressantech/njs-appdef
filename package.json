@@ -1,5 +1,5 @@
 {
-  "name": "njs-app-default",
+  "name": "njs-appdef",
   "version": "1.0.0",
   "description": "Nodejs App Default Library",
   "main": "rest-store.js",
